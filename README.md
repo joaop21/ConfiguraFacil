@@ -8,4 +8,4 @@ The main purpose of the project was to model and program a car configuration sys
 This project was developed by me and my colleagues, respectively:
 - https://github.com/diogofbraga
 - https://github.com/ricardofsc10
-- 
+- https://github.com/ricardomilhazes
